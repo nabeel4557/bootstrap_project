@@ -1,0 +1,80 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+header {
+    background-color: #541554;
+}
+header div.container-fluid {
+    display: flex;
+    justify-content: space-between;
+}
+header div.left {
+    display: flex;
+}
+header div.left .image_container {
+    width: 30px;
+}
+header div.left .image_container img {
+    width: 100%;
+}
+header div.left nav {}
+header div.left nav .container-fluid {}
+header div.left nav .container-fluid a {
+    color: #fff;
+}
+header div.left nav ul {}
+header div.left nav ul li {}
+header div.left nav ul li a {
+}
+/* left end''' */
+div.right {}
+div.right a {}
+div.right button {}
+
+/* header end''''' */
+
+section#main {
+    width: 100%;
+    background-color: #541554;
+}
+section#main .left {
+    width: 50%;
+    margin-left: 50px;
+}
+section#main .left .top {}
+section#main .left .top h1 {
+    font-size: 48px;
+    font-weight: 700;
+
+}
+section#main .left .top span {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+
+section#main .left .bottom {
+
+} 
+section#main .left .bottom button.one {}
+section#main .left .bottom button.two {}
+section#main .left .bottom button.two span {
+}
+section#main .left .bottom button.two span img {
+    width:20px;
+}
+section#main .right {
+    width: 50%;
+}
+
+
+
+
+
+
