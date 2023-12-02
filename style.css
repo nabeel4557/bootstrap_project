@@ -40,38 +40,81 @@ div.right button {}
 /* header end''''' */
 
 section#main {
-    width: 100%;
     background-color: #541554;
+
 }
-section#main .left {
-    width: 50%;
-    margin-left: 50px;
-}
+section#main .left {}
 section#main .left .top {}
 section#main .left .top h1 {
-    font-size: 48px;
-    font-weight: 700;
+    font-size: 60px;
+}
+section#main .top span {
+    font-size: 60px;
+}
+section#main .left .bottom button span {
+    background-color: #fff;
+    margin-right: 5px;
+}
+section#main .left .bottom button span img{
+    width: 15px;
+}
+section#main .left .bottom p {
+    margin-top: 10px;
+    color: #fff;
+    font-weight: 500;
+}
+/* main end''''' */
+
+
+section#companies {
+    background: #f4ede4;
+    padding: 37px;
+}
+section#companies .up p {
+    text-align: center;
+    
+}
+section#companies .up ul {
+    margin: 0px 90px;
+    display: flex;
+    align-items: center;
 
 }
-section#main .left .top span {
-    font-size: 48px;
-    font-weight: 700;
+section#companies .up ul li {
+    align-items: center;
+}
+section#companies .down {
+    padding-top: 70px;
+}
+section#companies .down .item {
+    align-items: center;
+    margin-top: 70px;
+}
+section#companies .down .item .right h2 {
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+section#companies .down .item .right p {
+    font-size: 18px;
+    font-weight: 500;
+}
+section#companies .down .item .left h2 {
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+section#companies .down .item .left p {
+    font-size: 18px;
+    font-weight: 500;
 }
 
 
-section#main .left .bottom {
 
-} 
-section#main .left .bottom button.one {}
-section#main .left .bottom button.two {}
-section#main .left .bottom button.two span {
-}
-section#main .left .bottom button.two span img {
-    width:20px;
-}
-section#main .right {
-    width: 50%;
-}
+
+
+
 
 
 
