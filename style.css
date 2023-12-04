@@ -111,6 +111,69 @@ section#companies .down .item .left p {
 }
 /* sec company end''' */
 
+section#percentage {}
+section#percentage .top {
+    text-align: center;
+    margin-top: 110px;
+}
+section#percentage .top  h3 {
+    font-size: 50px;
+    font-weight: 600;
+}
+section#percentage .top p {
+    font-size: 18px;
+    font-weight: 500;
+}
+section#percentage .top button.one {
+    background-color: #541554;
+    margin-right: 10px;
+    padding: 10px 30px;
+    
+}
+section#percentage .top button.two {
+    border: 1px solid #000;
+    padding: 10px 30px ;
+}
+section#percentage .down {
+    margin-top: 90px;
+    text-align: center;
+}
+section#percentage .down .item span {
+    font-size: 65px;
+    font-weight: 600;
+    color:  #541554;
+}
+section#percentage .down .item p {
+    font-size: 14px;
+}
+section#percentage .bottom {
+    margin-top: 60px;
+    align-items: center;
+}
+section#percentage .bottom p.two {
+    text-align: center;
+    font-size: 12px;
+}
+section#percentage .bottom .right p.one {
+    font-size: 25px;
+    font-weight: 400;
+}
+section#percentage .bottom .right span.one {
+    display: block;
+    font-weight: 600;
+}
+section#percentage .bottom .right span.two {
+    display: block;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
 
 
 
